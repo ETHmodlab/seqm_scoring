@@ -10,7 +10,7 @@
 
 ![](imgs/docking_dg_calculation.png)
 
-This repository contains a reference implementation to preprocess the data, as well as to train and apply the de novo design models introduced in Combining de novo molecular design with semiempirical protein–ligand binding free energy calculation by Michael Iff, Kenneth Atz, Clemens Isert, Irene Pachon Angona, Leandro Cotos, Mattis Hilleke, Jan A. Hiss, and Gisbert Schneider(2024).
+This repository contains a reference implementation of the semiempirical protein–ligand binding free energy calculation introduced in Combining de novo molecular design with semiempirical protein–ligand binding free energy calculation by Michael Iff, Kenneth Atz, Clemens Isert, Irene Pachon Angona, Leandro Cotos, Mattis Hilleke, Jan A. Hiss, and Gisbert Schneider(2024).
 
 
 ## 1. Environment
