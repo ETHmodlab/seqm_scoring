@@ -8,7 +8,7 @@ dependencies:
   - numpy=1.18.5
   - pandas=1.0.5
   - pip=20.1.1
-  - python=3.7.7
+  - python=3.8
   - rdkit=2020.03.3
   - regex=2020.6.8
   - tqdm=4.46.1
