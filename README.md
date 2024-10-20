@@ -37,12 +37,12 @@ python calculation.py -folder <path_to_your_xyz_files> -method <gfnff|gfn2> -sys
 python calculation.py -folder M01/ -method gfnff -system combined -charge 0
 ```
 
-This will execule the following xtb command:
+This will execute the following xtb command:
 ```
 xtb --gfnff M01/M01_combined.xyz --hess --gbsa water  > M01/M01_combined_gfnff.txt
 ```
 
-The resulkts are then stored here:
+The results are then stored here:
 ```
 M01_combined_gfnff.txt
 ```
