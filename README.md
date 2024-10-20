@@ -1,5 +1,5 @@
 
-# Prospective de novo drug design with deep interactome learning
+# Combining de novo molecular design with semiempirical protein–ligand binding free energy calculation
 
 [![python](https://img.shields.io/badge/Python-3.8-3776AB.svg?style=flat&logo=python&logoColor=yellow)](https://www.python.org)
 [![pytorch](https://img.shields.io/badge/PyTorch-1.13.1-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
