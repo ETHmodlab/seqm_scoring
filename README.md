@@ -56,10 +56,10 @@ The software was developed at ETH Zurich and is licensed under the MIT license, 
   title={Combining de novo molecular design with semiempirical protein–ligand binding free energy calculation},
   author={Iff, Michael and Atz, Kenneth and Isert, Clemens and Pachon Angona, Irene and Cotos, Leandro and Hilleke, Mattis and Hiss, Jan A. and Schneider, Gisbert},
   year={2024},
-  journal={Nat. Commun.},
-  publisher={Nature Publishing Group},
-  volume={15},
-  number={3408}
+  journal={},
+  publisher={},
+  volume={},
+  number={}
 }
 ```
 
