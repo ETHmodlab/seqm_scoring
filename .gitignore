@@ -7,7 +7,6 @@ lsf.*
 .vscode/*
 .vscode*
 .vscode
-*.png
 *.ini
 *.h5
 *.txt
